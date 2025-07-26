@@ -12,4 +12,4 @@ Engineer Steve is a Software Engineer Specializing on Web Development and System
 For backend he use JavaScript, Python and its frameworks like Django. For the System Developing he majorly uses Java and Python. Engineer Steve is so dedicated and self driven Developer who works on a project with all
 the attention and time it requires to produce a quality solution to your problem. Join him and let's get coding together!
 
-https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
