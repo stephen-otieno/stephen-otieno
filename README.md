@@ -1,15 +1,44 @@
-- 👋 Hi, I’m **Eng: STEPHEN OTIENO ODUOR**
-- 👀 I’m interested in Web Development and Systems Programming.
-- 🌱 I’m currently a **Software Engineering** student at Kisii University.
-- ⚡ Skills: HTML,CSS, Bootstrap, JavaScript, Python and Java.
-- 💞️ I’m looking forward to collaborate on any problem solving projects involving Web programming(Frontend) and Programming tasks.
-- 📫 Reach me via: engineerotienoduor14@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Solving problems, learning new programming languages and working out puzzles
+👋 Hi there, I’m Eng. Stephen Otieno Oduor
 
+🎓 I'm a Software Engineering student at Kisii University.  
+💻 Passionate about Web Development and System/Software Programming.  
+🔍 Always learning, building, and solving real-world problems through code.  
+🤝 Open to collaborations on web apps, programming tasks, and innovative tech projects.
 
-Engineer Steve is a Software Engineer Specializing on Web Development and System/Software programming. He builds responsive and appealing Websites using HTML, CSS and Bootstrap frameworks for the frontend.
-For backend he use JavaScript, Python and its frameworks like Django. For the System Developing he majorly uses Java and Python. Engineer Steve is so dedicated and self driven Developer who works on a project with all
-the attention and time it requires to produce a quality solution to your problem. Join him and let's get coding together!
+---
 
+🚀 Skills & Tools
+
+💡 Languages & Frameworks:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+🌐 Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+📫 Contact Me
+
+- 📧 Email: engineerotienoduor14@gmail.com 
+- 💼 LinkedIn: (https://www.linkedin.com/in/stephen-otieno-9a2833306/)
+
+---
+
+🔎 About Me
+
+Engineer Steve is a self-driven Software Engineer who specializes in building responsive and visually appealing websites using HTML, CSS, and Bootstrap. For backend development, he works with Python, Django, and Java. He's committed to delivering quality, secure, and efficient solutions to every project he undertakes.
+
+> 💡 “Let's code to build, innovate, and solve problems together.”
+
+---
+
+⚡ Fun Facts
+
+- 🧠 Loves puzzles and problem-solving  
+- 🌍 Enjoys exploring new tech  
+- 🧰 Constantly learning new programming languages  
