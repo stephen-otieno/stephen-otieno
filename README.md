@@ -1,4 +1,4 @@
-```markdown
+
 👋 Hi there, I’m Eng. Stephen Otieno Oduor
 
 🎓 I'm a Software Engineering student at Kisii University.  
@@ -48,5 +48,5 @@ Engineer Steve is a self-driven Software Engineer who specializes in building re
 - 🧠 Loves puzzles and problem-solving  
 - 🌍 Enjoys exploring new tech  
 - 🧰 Constantly learning new programming languages  
-```
+
 
