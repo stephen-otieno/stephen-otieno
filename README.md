@@ -2,7 +2,7 @@
 👋 Hi there, I’m Eng. Stephen Otieno Oduor
 
 🎓 I'm a Software Engineering student at Kisii University.  
-💻 Passionate about Web Development and System/Software Programming.  
+💻 Passionate about Mobile Application Development, Web Development and System/Software Programming.  
 🔍 Always learning, building, and solving real-world problems through code.  
 🤝 Open to collaborations on web apps, programming tasks, and innovative tech projects.
 
