@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="35%">
-      <img src="YOUR_IMAGE_URL" width="100%" style="border-radius: 50%;" />
+      <img src="https://raw.githubusercontent.com/stephen-otieno/stephen-otieno/main/Stephen.jpeg" width="100%" style="border-radius: 50%;" />
     </td>
     <td width="65%" align="center">
       <h1>Hi 👋, I'm Eng. Stephen Oduor</h1>
