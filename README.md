@@ -1,9 +1,14 @@
-
-<h1 align="center">Hi 👋, I'm Eng. Stephen Otieno Oduor</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full-Stack+Developer;Django+%7C+MERN+Stack+Expert;Always+Learning+New+Things&center=true&width=500&height=45">
-</p>
+<table>
+  <tr>
+    <td width="35%">
+      <img src="YOUR_IMAGE_URL" width="100%" style="border-radius: 50%;" />
+    </td>
+    <td width="65%" align="center">
+      <h1>Hi 👋, I'm Eng. Stephen Oduor</h1>
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full-Stack+Developer;Django+%7C+MERN+Stack+Expert;Always+Learning+New+Things&center=true&width=400&height=45">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -68,7 +73,7 @@
 
 ## 🧠 About Me (Professional Summary)
 
-Engineer Stephen Otieno is a self-driven Software Engineer specializing in building responsive and visually appealing web applications. He works with Django, Java, and modern JavaScript frameworks to deliver secure, efficient, and scalable solutions.
+Stephen Oduor is a self-driven Software Engineer specializing in building responsive and visually appealing web applications. He works with Django, Java, and modern JavaScript frameworks to deliver secure, efficient, and scalable solutions.
 
 > 💡 *"Let's code to build, innovate, and solve real-world problems."*
 
