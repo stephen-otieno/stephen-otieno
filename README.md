@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="35%">
-<img src="https://raw.githubusercontent.com/stephen-otieno/stephen-otieno/main/Stephen.jpeg" width="100%" style="border-radius: 50%;" />    </td>
+<img src="https://github.com/stephen-otieno/stephen-otieno/blob/main/Stephen.jpeg?raw=true" width="100%" style="border-radius: 50%;" />    </td>
     <td width="65%" align="center">
       <h1>Hi 👋, I'm Eng. Stephen Oduor</h1>
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full-Stack+Developer;Django+%7C+MERN+Stack+Expert;Always+Learning+New+Things&center=true&width=400&height=45">
